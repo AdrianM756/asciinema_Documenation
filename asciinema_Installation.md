@@ -18,7 +18,6 @@ asciinema -h
 ```
 <br>
 
-
 ## Usage 
 
 To  start recording, We can use the command:
@@ -26,6 +25,8 @@ To  start recording, We can use the command:
 asciinema rec
 ```
 <br>
+
+<a href="https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc" target="_blank"><img src="https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc.svg" /></a>
 
 To stop the recording, we can use the command ```exit``` or ```Ctrl + d```
 <br>
