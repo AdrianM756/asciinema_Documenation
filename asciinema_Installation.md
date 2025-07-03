@@ -26,7 +26,6 @@ asciinema rec
 ```
 <br>
 
-<script src="https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc.js" id="asciicast-CTks7CTwu1YhgFiEetNlGdakc" async="true"></script>
 
 To stop the recording, we can use the command ```exit``` or ```Ctrl + d```
 <br>
