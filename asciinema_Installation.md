@@ -26,7 +26,7 @@ asciinema rec
 ```
 <br>
 
-<a href="https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc" target="_blank"><img src="https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc.svg" /></a>
+[![asciicast](https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc.svg)](https://asciinema.org/a/CTks7CTwu1YhgFiEetNlGdakc)
 
 To stop the recording, we can use the command ```exit``` or ```Ctrl + d```
 <br>
